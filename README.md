@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/29168170/README.md)
-# drraychelpowers.com
+[README.md](https://github.com/user-attachments/files/29168221/README.md)
+# drpowers.org
 
 The personal-brand site for Dr. Raychel Powers — a fast, static, dependency-free
 site built for GitHub Pages.
@@ -32,9 +32,9 @@ from `index.html`, and it inherits the same nav and footer automatically. Edit t
 
 ## Deploy on GitHub Pages
 
-1. Create a repo (e.g. `drraychelpowers`) and push these files to the `main` branch.
+1. Create a repo (e.g. `drpowers`) and push these files to the `main` branch.
 2. **Settings → Pages →** Source: *Deploy from a branch*, Branch: `main` / `root`.
-3. Under **Custom domain**, enter `drraychelpowers.com` (the `CNAME` file already sets this).
+3. Under **Custom domain**, enter `drpowers.org` (the `CNAME` file already sets this).
 4. At your DNS host, point the domain at GitHub Pages:
    - `A` records for the apex `@` → `185.199.108.153`, `185.199.109.153`,
      `185.199.110.153`, `185.199.111.153`
