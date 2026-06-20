@@ -113,7 +113,7 @@
     var form = document.getElementById("subscribe-form");
     if (!form) return;
     var status = document.getElementById("form-status");
-    var FALLBACK_EMAIL = "hello@drraychelpowers.com"; // <-- set your real inbox
+    var FALLBACK_EMAIL = "Info@DrPowersTherapy.com"; // <-- set your real inbox
 
     form.addEventListener("submit", function (e) {
       e.preventDefault();
