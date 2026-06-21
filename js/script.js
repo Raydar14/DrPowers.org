@@ -44,7 +44,7 @@
 
     host.innerHTML =
       '<nav class="nav wrap" aria-label="Primary navigation">' +
-        '<a class="brand" href="index.html#home">Dr.&nbsp;Raychel&nbsp;<b>Powers</b></a>' +
+        '<a class="brand" href="index.html#home"><img class="brand__mark" src="assets/logo.svg" alt="" width="34" height="34" /><span>Dr.&nbsp;Raychel&nbsp;<b>Powers</b></span></a>' +
         '<button class="nav__toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav-menu">' +
           "<span></span><span></span><span></span>" +
         "</button>" +
