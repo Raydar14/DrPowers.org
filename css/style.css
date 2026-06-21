@@ -20,9 +20,9 @@
   --text-dark:  #14303a; /* on light  */
   --text-mute:  #566b72; /* muted on light */
 
-  /* Type — rounded, to match the logo lettering */
-  --display: "Fredoka", "Trebuchet MS", sans-serif;
-  --body: "Nunito", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* Type — professional editorial pairing */
+  --display: "Playfair Display", Georgia, "Times New Roman", serif;
+  --body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
 
   /* Space + shape */
   --wrap: 1140px;
