@@ -11,7 +11,7 @@
   var IMAGES = [
     { src: "assets/gallery/photo-1.jpg",  caption: "Untitled — acrylic on canvas", category: "Art" },
     { src: "assets/gallery/photo-2.jpg",  caption: "Monstera, morning light",        category: "Plants" },
-    { src: "assets/gallery/photo-3.jpg",  caption: "Pérez Zeledón, Costa Rica",       category: "Travel" },
+    { src: "assets/gallery/photo-3.jpg",  caption: "On the road",                     category: "Travel" },
     { src: "assets/gallery/photo-4.jpg",  caption: "Studio corner",                   category: "Art" },
     { src: "assets/gallery/photo-5.jpg",  caption: "On the mat",                      category: "Life" },
     { src: "assets/gallery/photo-6.jpg",  caption: "Río in the valley",               category: "Travel" },
