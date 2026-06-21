@@ -82,7 +82,7 @@
         '<div class="foot__top">' +
           "<div>" +
             '<div class="foot__brand">Dr.&nbsp;<b>Raychel</b>&nbsp;Powers</div>' +
-            '<p class="foot__tag">Justice that heals. Therapy that empowers. Sexuality that frees.</p>' +
+            '<p class="foot__tag">Justice that frees. Therapy that empowers. Creativity that heals.</p>' +
           "</div>" +
           '<nav class="social" aria-label="Social media">' + social + "</nav>" +
         "</div>" +

@@ -4,25 +4,25 @@
    ============================================================ */
 
 :root {
-  /* Color */
-  --ink:      #12302d;   /* deep teal-charcoal — base dark            */
-  --ink-2:    #1b403b;   /* raised dark surface                       */
-  --ink-3:    #0d2421;   /* deepest, for footer                       */
-  --paper:    #f6f1e7;   /* warm cream — light sections               */
-  --paper-2:  #efe7d6;   /* cream raised surface                      */
-  --gold:     #f2a73c;   /* sunshine amber — primary accent / CTA     */
-  --gold-deep:#d98a1f;
-  --coral:    #e7567a;   /* rebel rose — secondary accent             */
-  --sky:      #86d6c8;   /* soft mint-teal — links / highlights on ink*/
+  /* Color — matched to the Dr Powers brain-heart logo */
+  --ink:      #0d2b3a;   /* deep teal-navy — logo background           */
+  --ink-2:    #143a4b;   /* raised dark surface                       */
+  --ink-3:    #081f2b;   /* deepest, for footer                       */
+  --paper:    #eef4f5;   /* cool off-white — light sections           */
+  --paper-2:  #e1ebed;   /* cool raised surface                       */
+  --gold:     #4fc3ad;   /* mint-teal — primary accent / CTA          */
+  --gold-deep:#2f9aa0;
+  --coral:    #3f6fc4;   /* logo blue/indigo — secondary accent       */
+  --sky:      #74d6c6;   /* bright mint — links / highlights on ink   */
 
-  --text-light: #f4efe4; /* on dark   */
-  --text-dim:   #b9cbc6; /* muted on dark */
-  --text-dark:  #1b2a28; /* on cream  */
-  --text-mute:  #5d6f6b; /* muted on cream */
+  --text-light: #f1f8f8; /* on dark   */
+  --text-dim:   #a9c4cc; /* muted on dark */
+  --text-dark:  #14303a; /* on light  */
+  --text-mute:  #566b72; /* muted on light */
 
-  /* Type */
-  --display: "Fraunces", Georgia, "Times New Roman", serif;
-  --body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* Type — rounded, to match the logo lettering */
+  --display: "Fredoka", "Trebuchet MS", sans-serif;
+  --body: "Nunito", system-ui, -apple-system, "Segoe UI", sans-serif;
 
   /* Space + shape */
   --wrap: 1140px;
@@ -101,8 +101,8 @@ h1, h2, h3 {
   border: 1.5px solid transparent; transition: transform .2s var(--ease), box-shadow .2s var(--ease), background .2s var(--ease), color .2s var(--ease);
   white-space: nowrap;
 }
-.btn--gold { background: var(--gold); color: var(--ink); box-shadow: 0 10px 24px -12px rgba(242,167,60,.8); }
-.btn--gold:hover { background: #ffc15f; transform: translateY(-2px); }
+.btn--gold { background: var(--gold); color: var(--ink); box-shadow: 0 10px 24px -12px rgba(79,195,173,.8); }
+.btn--gold:hover { background: #6fdcc6; transform: translateY(-2px); }
 .btn--ghost { background: transparent; color: var(--text-light); border-color: rgba(244,239,228,.35); }
 .btn--ghost:hover { border-color: var(--text-light); transform: translateY(-2px); }
 
@@ -136,9 +136,9 @@ h1, h2, h3 {
 .hero {
   position: relative; overflow: hidden;
   background:
-    radial-gradient(120% 90% at 78% 8%, rgba(231,86,122,.30), transparent 55%),
-    radial-gradient(120% 80% at 10% 100%, rgba(242,167,60,.22), transparent 60%),
-    linear-gradient(160deg, #173a36 0%, var(--ink) 55%, var(--ink-3) 100%);
+    radial-gradient(120% 90% at 78% 8%, rgba(63,111,196,.30), transparent 55%),
+    radial-gradient(120% 80% at 10% 100%, rgba(79,195,173,.22), transparent 60%),
+    linear-gradient(160deg, #11414f 0%, var(--ink) 55%, var(--ink-3) 100%);
   color: var(--text-light);
 }
 .hero__glow {
@@ -208,7 +208,7 @@ h1, h2, h3 {
 .card__tag {
   align-self: flex-start; font-size: .68rem; font-weight: 700; letter-spacing: .12em;
   text-transform: uppercase; color: var(--gold-deep);
-  background: rgba(242,167,60,.14); padding: .3rem .65rem; border-radius: 999px;
+  background: rgba(79,195,173,.14); padding: .3rem .65rem; border-radius: 999px;
 }
 .card h3 { font-size: 1.32rem; }
 .card p { margin: 0; color: var(--text-mute); font-size: .98rem; flex: 1; }
@@ -218,7 +218,7 @@ h1, h2, h3 {
 /* ---------- BE333 ---------- */
 .be333 {
   background:
-    radial-gradient(90% 120% at 90% 10%, rgba(231,86,122,.22), transparent 60%),
+    radial-gradient(90% 120% at 90% 10%, rgba(63,111,196,.22), transparent 60%),
     var(--ink-2);
   color: var(--text-light); padding-block: clamp(4rem, 9vw, 7rem);
 }
@@ -277,8 +277,8 @@ h1, h2, h3 {
 /* ---------- Connect / subscribe ---------- */
 .connect {
   background:
-    radial-gradient(80% 120% at 15% 0%, rgba(242,167,60,.20), transparent 55%),
-    radial-gradient(80% 120% at 100% 100%, rgba(231,86,122,.20), transparent 55%),
+    radial-gradient(80% 120% at 15% 0%, rgba(79,195,173,.20), transparent 55%),
+    radial-gradient(80% 120% at 100% 100%, rgba(63,111,196,.20), transparent 55%),
     var(--ink-2);
   color: var(--text-light); padding-block: clamp(4rem, 9vw, 7rem);
 }
@@ -349,9 +349,9 @@ h1, h2, h3 {
    ============================================================ */
 .cv-hero {
   background:
-    radial-gradient(110% 90% at 85% 0%, rgba(231,86,122,.28), transparent 55%),
-    radial-gradient(110% 90% at 0% 100%, rgba(242,167,60,.20), transparent 60%),
-    linear-gradient(160deg, #173a36 0%, var(--ink) 60%, var(--ink-3) 100%);
+    radial-gradient(110% 90% at 85% 0%, rgba(63,111,196,.28), transparent 55%),
+    radial-gradient(110% 90% at 0% 100%, rgba(79,195,173,.20), transparent 60%),
+    linear-gradient(160deg, #11414f 0%, var(--ink) 60%, var(--ink-3) 100%);
   color: var(--text-light);
 }
 .cv-hero__inner { padding-block: clamp(3rem, 8vw, 5rem); }
@@ -418,9 +418,9 @@ h1, h2, h3 {
    ============================================================ */
 .about-hero {
   background:
-    radial-gradient(115% 95% at 88% 0%, rgba(231,86,122,.30), transparent 55%),
-    radial-gradient(110% 90% at 0% 100%, rgba(242,167,60,.20), transparent 60%),
-    linear-gradient(160deg, #173a36 0%, var(--ink) 58%, var(--ink-3) 100%);
+    radial-gradient(115% 95% at 88% 0%, rgba(63,111,196,.30), transparent 55%),
+    radial-gradient(110% 90% at 0% 100%, rgba(79,195,173,.20), transparent 60%),
+    linear-gradient(160deg, #11414f 0%, var(--ink) 58%, var(--ink-3) 100%);
   color: var(--text-light);
 }
 .about-hero__inner { padding-block: clamp(3.5rem, 10vw, 6rem); max-width: 880px; }
@@ -466,9 +466,9 @@ h1, h2, h3 {
    ============================================================ */
 .gal-hero {
   background:
-    radial-gradient(115% 95% at 12% 0%, rgba(242,167,60,.26), transparent 55%),
-    radial-gradient(110% 90% at 100% 100%, rgba(231,86,122,.24), transparent 60%),
-    linear-gradient(160deg, #173a36 0%, var(--ink) 58%, var(--ink-3) 100%);
+    radial-gradient(115% 95% at 12% 0%, rgba(79,195,173,.26), transparent 55%),
+    radial-gradient(110% 90% at 100% 100%, rgba(63,111,196,.24), transparent 60%),
+    linear-gradient(160deg, #11414f 0%, var(--ink) 58%, var(--ink-3) 100%);
   color: var(--text-light);
 }
 .gal-hero__inner { padding-block: clamp(3rem, 8vw, 5rem); max-width: 880px; }
@@ -511,7 +511,7 @@ h1, h2, h3 {
 .gal-item.ph .phbox {
   position: absolute; inset: 0; display: flex; flex-direction: column; gap: .5rem;
   align-items: center; justify-content: center; text-align: center; padding: 1rem;
-  background: linear-gradient(150deg, rgba(242,167,60,.18), rgba(231,86,122,.16)), var(--ink-2);
+  background: linear-gradient(150deg, rgba(79,195,173,.18), rgba(63,111,196,.16)), var(--ink-2);
   color: var(--text-dim);
 }
 .gal-item.ph .phbox svg { width: 30px; height: 30px; opacity: .7; }
