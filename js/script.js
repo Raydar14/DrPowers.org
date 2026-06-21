@@ -44,7 +44,7 @@
 
     host.innerHTML =
       '<nav class="nav wrap" aria-label="Primary navigation">' +
-        '<a class="brand" href="index.html#home">Dr.&nbsp;<b>Raychel</b>&nbsp;Powers</a>' +
+        '<a class="brand" href="index.html#home">Dr.&nbsp;Raychel&nbsp;<b>Powers</b></a>' +
         '<button class="nav__toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav-menu">' +
           "<span></span><span></span><span></span>" +
         "</button>" +
@@ -81,7 +81,7 @@
       '<div class="wrap foot">' +
         '<div class="foot__top">' +
           "<div>" +
-            '<div class="foot__brand">Dr.&nbsp;<b>Raychel</b>&nbsp;Powers</div>' +
+            '<div class="foot__brand">Dr.&nbsp;Raychel&nbsp;<b>Powers</b></div>' +
             '<p class="foot__tag">Justice that frees. Therapy that empowers. Creativity that heals.</p>' +
           "</div>" +
           '<nav class="social" aria-label="Social media">' + social + "</nav>" +
