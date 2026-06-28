@@ -12,8 +12,7 @@
     { src: "assets/headshot-closeup.jpg",   caption: "Portrait",                          category: "Life" },
     { src: "assets/cornfield.jpg",          caption: "Raised in a cornfield in Indiana",  category: "Life" },
     { src: "assets/portrait-mountains.jpg", caption: "In the Colorado mountains",         category: "Travel" },
-    { src: "assets/headshot-desk.jpg",      caption: "At the desk",                       category: "Life" },
-    { src: "assets/headshot-closeup2.jpg",  caption: "Portrait, II",                      category: "Life" }
+    { src: "assets/headshot-desk.jpg",      caption: "At the desk",                       category: "Life" }
   ];
 
   var grid = document.getElementById("gal-grid");
