@@ -1,10 +1,10 @@
 /* ============================================================
-   Dr. Raychel Powers — shared site script
+   Dr. Raychel Powers ,, shared site script
    Injects the header + footer on every page, then wires up
    the mobile menu, scroll reveals, and the subscribe form.
    To add a page (about.html, gallery.html, etc.) just include
    the same <header id="site-header"> / <footer id="site-footer">
-   placeholders and this script — the chrome stays in sync.
+   placeholders and this script ,, the chrome stays in sync.
    ============================================================ */
 (function () {
   "use strict";
@@ -87,7 +87,7 @@
           '<nav class="social" aria-label="Social media">' + social + "</nav>" +
         "</div>" +
         '<div class="foot__bottom">' +
-          "<span>&copy; " + new Date().getFullYear() + " Dr. Raychel Powers &mdash; all rights reserved. Don&rsquo;t hate me cus u ain&rsquo;t me.</span>" +
+          "<span>&copy; " + new Date().getFullYear() + " Dr. Raychel Powers ,, all rights reserved. Don&rsquo;t hate me cus u ain&rsquo;t me.</span>" +
           '<span><a href="index.html#connect">Get in touch</a></span>' +
         "</div>" +
       "</div>";
