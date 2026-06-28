@@ -446,6 +446,19 @@ h1, h2, h3 {
 .story p:last-child { margin-bottom: 0; }
 .story strong { color: var(--ink); }
 
+/* Portraits + figures */
+.bio-portrait {
+  float: right; width: clamp(190px, 34%, 300px); margin: .2rem 0 1.1rem 1.6rem;
+  border-radius: var(--radius); box-shadow: var(--shadow);
+  border: 3px solid #fff; aspect-ratio: 1 / 1; object-fit: cover; object-position: center top;
+}
+.figure { margin: 1.6rem 0 0; }
+.figure img { width: 100%; border-radius: var(--radius); box-shadow: var(--shadow-soft); display: block; }
+.figure figcaption { margin-top: .6rem; font-size: .9rem; color: var(--text-mute); font-style: italic; }
+@media (max-width: 600px) {
+  .bio-portrait { float: none; width: 100%; max-width: 320px; margin: 0 0 1.2rem; }
+}
+
 /* Manifesto */
 .cause { display: grid; grid-template-columns: auto 1fr; gap: 1.1rem 1.4rem; align-items: start; padding: 1.4rem 0; }
 .cause + .cause { border-top: 1px solid rgba(27,42,40,.1); }

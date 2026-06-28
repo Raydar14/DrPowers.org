@@ -9,14 +9,11 @@
   "use strict";
 
   var IMAGES = [
-    { src: "assets/gallery/photo-1.jpg",  caption: "Untitled ,, acrylic on canvas", category: "Art" },
-    { src: "assets/gallery/photo-2.jpg",  caption: "Monstera, morning light",        category: "Plants" },
-    { src: "assets/gallery/photo-3.jpg",  caption: "On the road",                     category: "Travel" },
-    { src: "assets/gallery/photo-4.jpg",  caption: "Studio corner",                   category: "Art" },
-    { src: "assets/gallery/photo-5.jpg",  caption: "On the mat",                      category: "Life" },
-    { src: "assets/gallery/photo-6.jpg",  caption: "Río in the valley",               category: "Travel" },
-    { src: "assets/gallery/photo-7.jpg",  caption: "New growth",                      category: "Plants" },
-    { src: "assets/gallery/photo-8.jpg",  caption: "Color study",                     category: "Art" }
+    { src: "assets/headshot-closeup.jpg",   caption: "Portrait",                          category: "Life" },
+    { src: "assets/cornfield.jpg",          caption: "Raised in a cornfield in Indiana",  category: "Life" },
+    { src: "assets/portrait-mountains.jpg", caption: "In the Colorado mountains",         category: "Travel" },
+    { src: "assets/headshot-desk.jpg",      caption: "At the desk",                       category: "Life" },
+    { src: "assets/headshot-closeup2.jpg",  caption: "Portrait, II",                      category: "Life" }
   ];
 
   var grid = document.getElementById("gal-grid");
