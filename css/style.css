@@ -452,8 +452,8 @@ h1, h2, h3 {
   border-radius: var(--radius); box-shadow: var(--shadow);
   border: 3px solid #fff; aspect-ratio: 1 / 1; object-fit: cover; object-position: center top;
 }
-.figure { margin: 1.6rem 0 0; }
-.figure img { width: 100%; border-radius: var(--radius); box-shadow: var(--shadow-soft); display: block; }
+.figure { margin: 1.8rem 0 0; max-width: 640px; }
+.figure img { width: 100%; height: auto; border-radius: var(--radius); box-shadow: var(--shadow-soft); display: block; }
 .figure figcaption { margin-top: .6rem; font-size: .9rem; color: var(--text-mute); font-style: italic; }
 @media (max-width: 600px) {
   .bio-portrait { float: none; width: 100%; max-width: 320px; margin: 0 0 1.2rem; }
