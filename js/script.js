@@ -6,6 +6,21 @@
    the same <header id="site-header"> / <footer id="site-footer">
    placeholders and this script ,, the chrome stays in sync.
    ============================================================ */
+
+/* ----- Google Analytics 4 (loads on every page) ----- */
+(function () {
+  var GA_ID = "G-MYSWPPB8FZ";
+  var s = document.createElement("script");
+  s.async = true;
+  s.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID;
+  document.head.appendChild(s);
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { window.dataLayer.push(arguments); }
+  window.gtag = gtag;
+  gtag("js", new Date());
+  gtag("config", GA_ID);
+})();
+
 (function () {
   "use strict";
 
