@@ -9,7 +9,7 @@ order: 6
 
 "I can't meditate. My mind won't stop."
 
-I hear this all the time. Here's the secret: nobody's mind stops. Meditation isn't about an empty head. It's about noticing where your attention went and gently bringing it back. Over and over. That's the practice.
+Here's the secret: nobody's mind stops. Meditation isn't about an empty head. It's about noticing where your attention went and gently bringing it back. Over and over. That's the practice.
 
 Breathing is step one. Without the breath, we are more likely to get lost.
 

@@ -55,7 +55,7 @@ I use the dopamine framing in my [sleep post](https://drpowers.org/blog/sleep-li
 
 ## Does each day get easier?
 
-Here's the question I get most: "If I cut back on screen time, does each day get easier, like my brain is healing?"
+The real question: "If I cut back on screen time, does each day get easier, like my brain is healing?"
 
 For many people, yes, though not in a straight line.
 

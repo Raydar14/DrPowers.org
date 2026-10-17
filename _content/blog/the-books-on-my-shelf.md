@@ -2,16 +2,16 @@
 title: The books on my shelf
 date: 2026-10-17
 category: Mental Health
-excerpt: Clinical manuals, couples workbooks, mindfulness, forensic texts, and one novel. Here's what's on my shelf, sorted so you can find your way in.
+excerpt: Not a reading list. An inventory. I haven't read them all, but here's what's on my shelf, sorted by topic.
 status: draft
 order: 24
 ---
 
-People ask what I read. Here's the honest answer: all of it.
+This isn't a recommendation list. I haven't read all of these. Some are still waiting their turn.
 
-Clinical manuals next to couples workbooks. Jury research next to Thich Nhat Hanh. *The Ethical Slut* next to the DSM. A psychologist's shelf looks a lot like a psychologist's brain.
+It's an inventory. Clinical manuals next to couples workbooks. Jury research next to Thich Nhat Hanh. *The Ethical Slut* next to the DSM. A psychologist's shelf looks a lot like a psychologist's brain.
 
-These are the books on my shelf, sorted by topic. Find the section that fits where you are.
+Here's what's on mine, sorted by topic. Browse. Be curious.
 
 ## Mindfulness and meditation
 
@@ -171,6 +171,6 @@ These are the books on my shelf, sorted by topic. Find the section that fits whe
 
 ## Try this
 
-Pick the section that made you pause. Choose one book from it. Read one chapter this week, and notice what it stirs up.
+Pick the section that made you pause. If a title catches you, look it up, read a sample, and decide for yourself.
 
 No book has all the answers. Take what helps. Leave what doesn't. Keep reading.

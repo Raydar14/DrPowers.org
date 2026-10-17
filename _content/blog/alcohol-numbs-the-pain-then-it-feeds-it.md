@@ -9,7 +9,7 @@ order: 17
 
 "A drink helps my pain."
 
-I hear this a lot, and it's not wrong. In the short term, alcohol really does dull pain. The trouble is what daily drinking does over months: to your gut, to your nerves, and to the pain itself.
+It's not wrong. In the short term, alcohol really does dull pain. The trouble is what daily drinking does over months: to your gut, to your nerves, and to the pain itself.
 
 This isn't a lecture. Shame never helped anyone drink less. This is what's happening inside your body, so you can make your own call.
 

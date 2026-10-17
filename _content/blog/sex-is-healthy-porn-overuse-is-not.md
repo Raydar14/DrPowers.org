@@ -36,7 +36,7 @@ This isn't just about arousal. It's about compulsion. At this point, many people
 
 ## What happens to real sex
 
-Here's the complaint I hear most: real sex starts to feel underwhelming.
+Here's a serious consequence: real sex starts to feel underwhelming.
 
 The slow pace, the emotional connection, and the unpredictability of a real partner don't match what the brain has been trained to expect. Real connection starts to feel "boring." Bodies, desire levels, and emotional needs vary in real life, and that can start to feel disappointing or frustrating. Consent, communication, and presence, which real intimacy depends on, can feel foreign.
 

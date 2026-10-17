@@ -1,7 +1,7 @@
 ---
 title: Depression from pain, or distress about pain? The diagnosis matters.
 date: 2026-10-17
-category: Forensic & VA
+category: Mental Health
 excerpt: Depressive disorder due to another medical condition and somatic symptom disorder with predominant pain both involve pain and mood. They are not the same diagnosis, and the difference shows up in the evidence.
 status: draft
 order: 23
