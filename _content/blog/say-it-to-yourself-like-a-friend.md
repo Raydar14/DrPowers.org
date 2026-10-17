@@ -29,7 +29,7 @@ When people talked to themselves using "you" or their own name instead of "I," t
 
 Stepping a little outside your own perspective seems to help you regulate what you feel. Hearing "you" can feel more like support from someone in your corner, and less like a claim you have to defend.
 
-That's an inference from the self-talk research, not a proven rule about affirmations. These studies were small and mostly done with college students. But it fits what I see: we are far kinder to our friends than to ourselves. So speak to yourself the way a friend would.
+That's an inference from the self-talk research, not a proven rule about affirmations. These studies were small and mostly done with college students. But it fits something most of us know: we are far kinder to our friends than to ourselves. So speak to yourself the way a friend would.
 
 ## How to use these
 
