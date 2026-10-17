@@ -708,3 +708,5 @@ h1, h2, h3 {
   .post-meta { gap: .3rem .6rem; }
 }
 .blog-empty { color: var(--text-dim); font-size: 1.1rem; margin: 0; }
+
+.hero__roles { color: var(--sky); font-weight: 600; font-size: clamp(1rem, 2.2vw, 1.15rem); letter-spacing: .02em; margin: .9rem 0 0; }
