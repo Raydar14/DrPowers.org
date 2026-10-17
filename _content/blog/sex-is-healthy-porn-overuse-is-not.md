@@ -19,11 +19,11 @@ Each new scene or clip is a fresh hit of novelty. Your brain's reward system lov
 
 Then the brain adapts. The same content stops doing as much. You need more: more novelty, more time, more intensity, to get to the same place.
 
-That's the theory behind "desensitization," and it's what I see in my work. Researchers are still testing how well it holds up. What's been measured so far: among men who watch porn, needing more and more viewing time to feel satisfied is closely tied to the core signs of problem use, like trouble resisting urges and using porn to cope with stress (Ince et al., 2024). Binge sessions and constant tab-jumping travel with it.
+That's the theory behind "desensitization." Researchers are still testing how well it holds up. What's been measured so far: among men who watch porn, needing more and more viewing time to feel satisfied is closely tied to the core signs of problem use, like trouble resisting urges and using porn to cope with stress (Ince et al., 2024). Binge sessions and constant tab-jumping travel with it.
 
 ## The chase is the high, not the climax
 
-Escalation is a pattern I see often in people who come to me for help. It can look like:
+Escalation can look like:
 
 - Longer sessions, often edging for hours
 - Aggressive or violent scenarios
@@ -83,7 +83,7 @@ For many people, porn isn't the only outlet. It's part of a wider pattern of com
 
 ## What it can cost you
 
-In my work, I see unchecked porn overuse lead to:
+Unchecked porn overuse can lead to:
 
 - Loss of desire for real-life partners
 - Trouble feeling pleasure in everyday life

@@ -25,7 +25,7 @@ It reminds me of the old fable of the scorpion and the frog. The scorpion stings
 
 DMX put it simply: "It takes too much energy not to trust someone." His answer was to see people clearly and "stay two steps ahead of them."
 
-I see this in my work all the time. Constant doubt is exhausting. Scanning every text, replaying every conversation, waiting for the other shoe to drop. Your nervous system can't rest when it's always on guard.
+Constant doubt is exhausting. Scanning every text, replaying every conversation, waiting for the other shoe to drop. Your nervous system can't rest when it's always on guard.
 
 Trusting someone to be themselves frees up that energy. You stop fighting reality and start working with it.
 

@@ -23,7 +23,7 @@ Agree on the break, though. You are not going to calm down if your partner is fo
 
 ## 2. Listen closely
 
-Here's the mistake I see couples make most: believing they "have listened" when all they did was let the other person talk.
+One mistake couples make: believing they "have listened" when all they did was let the other person talk.
 
 That isn't listening. It's waiting. You can't listen while you're building your counter argument. You aren't listening if you feel like you've "heard it all before." Listening takes full attention to the present moment.
 
