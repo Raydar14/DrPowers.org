@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Writing | Dr. Raychel Powers</title>
+  <meta name="description" content="Essays and practical guides on relationships, self-kindness, the brain, and mental health from licensed psychologist Dr. Raychel Powers." />
+  <meta name="author" content="Dr. Raychel Powers" />
+  <meta name="theme-color" content="#00273f" />
+  <link rel="canonical" href="https://drpowers.org/blog/" />
+  <link rel="icon" href="../assets/favicon-heart.svg" type="image/svg+xml" />
+  <link rel="alternate" type="application/rss+xml" title="Dr. Raychel Powers, writing" href="https://drpowers.org/feed.xml" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Dr. Raychel Powers" />
+  <meta property="og:title" content="Writing | Dr. Raychel Powers" />
+  <meta property="og:description" content="Essays and practical guides on relationships, self-kindness, the brain, and mental health from licensed psychologist Dr. Raychel Powers." />
+  <meta property="og:url" content="https://drpowers.org/blog/" />
+  <meta property="og:image" content="https://drpowers.org/assets/headshot-closeup.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/style.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header id="site-header" class="site-header" aria-label="Primary"></header>
+
+  <main id="main">
+    <section class="post-hero blog-hero">
+      <div class="wrap post-hero__inner">
+        <h1>Writing</h1>
+        <p class="about-lead">Relationships, self-kindness, the brain, and the honest work of feeling better. Long form, in my own words.</p>
+      </div>
+    </section>
+
+    <section class="blog blog-list">
+      <div class="wrap">
+        <div class="gal-filters blog-filters" role="group" aria-label="Filter by topic"><button class="chip" type="button" aria-pressed="true" data-cat="All">All</button><button class="chip" type="button" aria-pressed="false" data-cat="Relationships">Relationships</button><button class="chip" type="button" aria-pressed="false" data-cat="Self-Kindness">Self-Kindness</button><button class="chip" type="button" aria-pressed="false" data-cat="Mind &amp; Body">Mind &amp; Body</button><button class="chip" type="button" aria-pressed="false" data-cat="Mental Health">Mental Health</button></div>
+        <div class="blog-grid">
+          <a class="blog-card post-card" href="listen-to-your-partner/" data-cat="Relationships">
+            <h3>Listen to your partner even when you don&#x27;t want to</h3>
+            <p>Twenty minutes of bickering and nobody feels heard. Here is what to do differently in the middle of the argument, and it starts with listening.</p>
+            <span class="post-card__meta">Relationships, 2 min read</span>
+          </a>
+          <a class="blog-card post-card" href="metta-in-the-wild/" data-cat="Self-Kindness">
+            <h3>Metta in the Wild: The Secret Kindness Game</h3>
+            <p>A gentle, mischievous, grounded practice you can play anywhere. Find three players, secretly send them a bloom of kindness, and feel your own nervous system settle.</p>
+            <span class="post-card__meta">Self-Kindness, 2 min read</span>
+          </a>
+          <a class="blog-card post-card" href="solo-poly/" data-cat="Relationships">
+            <h3>Understanding Polyamory and Solo Poly: A Journey of Love Without Limits</h3>
+            <p>What polyamory is, what makes solo poly different, and why loving yourself first is the foundation of loving without limits.</p>
+            <span class="post-card__meta">Relationships, 4 min read</span>
+          </a>
+          <a class="blog-card post-card" href="how-nature-shapes-the-brain/" data-cat="Mind &amp; Body">
+            <h3>How Nature Shapes the Brain: The Neuroscience of Greenery, Mountains, and Plants</h3>
+            <p>Forests, mountain views, even a houseplant on your desk change how your brain works. A tour of the research on attention, stress, rumination, memory, and creativity.</p>
+            <span class="post-card__meta">Mind &amp; Body, 6 min read</span>
+          </a>
+          <a class="blog-card post-card" href="power-of-sleep-protocol/" data-cat="Mind &amp; Body">
+            <h3>Power of Sleep Protocol</h3>
+            <p>For resetting dopamine, restoring mental energy, and sleeping like a monk. Eight habits plus the ultimate before-bed routine, minute by minute.</p>
+            <span class="post-card__meta">Mind &amp; Body, 4 min read</span>
+          </a>
+          <a class="blog-card post-card" href="how-to-meditate/" data-cat="Mind &amp; Body">
+            <h3>How to Meditate</h3>
+            <p>A simple, ten-step starting guide to meditation, from finding a quiet space to building a regular practice, with kindness toward the wandering mind.</p>
+            <span class="post-card__meta">Mind &amp; Body, 2 min read</span>
+          </a>
+          <a class="blog-card post-card" href="remote-learning-student-mental-health/" data-cat="Mental Health">
+            <h3>Remote Learning and Student Mental Health: An Interview</h3>
+            <p>My answers to a Florida State University student&#x27;s questions on how remote learning affects attention, anxiety, and motivation, and what students and professors can do about it.</p>
+            <span class="post-card__meta">Mental Health, 2 min read</span>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+  <script>
+    (function () {
+      var chips = document.querySelectorAll(".blog-filters .chip");
+      var cards = document.querySelectorAll(".post-card");
+      chips.forEach(function (c) {
+        c.addEventListener("click", function () {
+          chips.forEach(function (x) { x.setAttribute("aria-pressed", "false"); });
+          c.setAttribute("aria-pressed", "true");
+          var cat = c.getAttribute("data-cat");
+          cards.forEach(function (card) {
+            card.hidden = !(cat === "All" || card.getAttribute("data-cat") === cat);
+          });
+        });
+      });
+    })();
+  </script>
+
+  <footer id="site-footer" class="site-footer"></footer>
+  <script src="../js/script.js"></script>
+</body>
+</html>
