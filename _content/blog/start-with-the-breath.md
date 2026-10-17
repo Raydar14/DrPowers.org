@@ -24,7 +24,7 @@ Meditation is a way of training your attention and awareness. With practice, it 
 3. **Get comfortable.** Sit on a chair, a cushion, or the floor, or lie down. Back straight, not stiff.
 4. **Close your eyes.** Less to look at means more room to turn inward.
 5. **Find your breath.** Feel the air move in and out. Notice your chest or belly rise and fall.
-6. **When your mind wanders, come back.** It will wander. That's normal. When you notice, gently return to the breath. Noticing *is* the rep.
+6. **When your mind wanders, come back.** It will wander. That's normal. When you notice, gently return to the breath. Wandering isn't failing. It's the rep.
 7. **Scan your body.** Move your attention through your body. Notice tension, warmth, or ease.
 8. **Be kind to your wandering mind.** No judging. No scolding. Judgment adds tension, and tension is the opposite of what you came here for. If you feel like you're failing, just keep going.
 9. **End gently.** Open your eyes slowly. Notice the room before you get up.

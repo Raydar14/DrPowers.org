@@ -8,6 +8,10 @@ A psychologist who has sat in courtrooms, therapy rooms, prisons, and protests, 
 
 Her ethos, in her words: **clarity over judgment, curiosity over shame, and creativity that heals.**
 
+Her clinical foundation, in her own bios: mindfulness, CBT, compassion, and Stoicism. When a piece needs a "why," it usually comes from one of these four.
+
+Where she sounds most like herself online: Power Over Porn, I Married a Murderer, Therapy Thingz, and BE333. When in doubt, read those first.
+
 ## Five traits
 
 1. **Direct.** Say the thing in the first line. No warm-up, no throat clearing.
@@ -19,6 +23,12 @@ Her ethos, in her words: **clarity over judgment, curiosity over shame, and crea
 ## Signature moves (protect these)
 
 - **Threes.** Lists, rhythms, and closers in threes. "Justice that frees. Therapy that empowers. Creativity that heals." "Pause. Breathe. Be." "Three minutes, three times a day, for three weeks."
+- **"Not X. It's Y."** Her strongest pattern. "Relapse isn't failure. It's data." "This isn't about willpower. It's about rewiring." "Sex is healthy. Porn is not." "We don't chase abstinence. We build integrity."
+- **Triple refusals.** "No filters. No surveillance. No shame." "Nothing to doom-scroll, everything to come back to yourself." "Take what helps. Leave what doesn't."
+- **Deadpan, self-implicating humor.** "I Married a Murderer (so you don't have to)." "I am one of those women." "Your partner isn't your probation officer."
+- **Coined words and playful spelling.** Thingz, joURney wOrKz, BE333, MicroDose Peace. Use inside her own brands, not inside clinical explanations.
+- **Evidence honesty.** Say how strong the evidence is. "Spacing beats cramming." "Everything else is shaded by sample size." Flag speculation as speculation.
+- **Sex-positive and anti-shame.** Shame is never the tool. "LGBTQ+ allied, sex-positive, and medical-marijuana friendly."
 - **Contrast pairs.** "Ketamine works fast. Therapy makes it last." "With the system, around it, and against it when it needed to be." "Clarity over judgment."
 - **Alliteration with a point.** "Courtrooms, bedrooms, and boardrooms." "From kink to court."
 - **Short stacked lines for personal truth.** "Not rich, not poor. Not popular or smart." Use for openings, closings, and anything about her own life.
@@ -55,6 +65,9 @@ Her ethos, in her words: **clarity over judgment, curiosity over shame, and crea
 - Eyebrow labels (small uppercase labels above headings).
 - Icons in graphics unless she asks for them. Emoji in long-form writing. Hashtags in blog posts.
 - AI and corporate filler: "In today's fast-paced world," "This article explores," "delve," "navigate," "journey" (as filler), "unlock," "empower your," "holistic approach," "profound impact," "it's important to note," "in conclusion," "game-changer," "dive deep," "transformative," "embark," "we are dedicated to," "unique ways to cope with modern-day problems."
+- Template service-page language: "tailored," "rigorous" and "meticulously" as filler, "meets you where you are," "committed to helping you," "a safe space to explore," "compassionate, evidence-based care," "empowering," "one-size-fits-all."
+- Deleting an em dash without rewriting. That leaves run-ons ("made for real humans not perfect ones"). Rewrite the sentence.
+- Developer notes or placeholder text visible to visitors.
 - Stacked hedges ("may potentially help some people").
 - Diagnosing the reader, or promising outcomes ("benefits in 5 days").
 
@@ -63,6 +76,9 @@ Her ethos, in her words: **clarity over judgment, curiosity over shame, and crea
 - First mention in a bio: **Dr. Raychel Powers, Psy.D.** After that: **Dr. Powers**.
 - Blog byline: Dr. Raychel Powers, Psy.D.
 - "Dr. Raychel" is fine for warm, personal-brand touches (Dr. Raychel recommends). "Raya" and "Ray" belong only to personal brands (Raya Sunshine, Ray Playz).
+- Credentials always written **Psy.D.** (two periods). Licenses: FL PY9748, CO PSY6749.
+- PSYPACT is written **PSYPACT**. She holds PSYPACT authority to practice telepsychology; never "PsyPact Certified."
+- Other clinicians appear with one consistent, current credential everywhere they're listed.
 - Brand names keep their own styling: JoURney wOrKz, BE333, Powers of Mind, Powers of Forensic Minds.
 
 ## Same person, different volume
@@ -78,7 +94,12 @@ Every site is the same woman. The volume knob changes, the voice doesn't.
 | JoURney wOrKz | Grounded, careful | Education, not promotion. Licensure and safety language present. |
 | Raya Sunshine | Cute, edgy, centering | "Soft landings, sharp edges, dead center." |
 | Ray Playz | Most playful | Humor up, clinical language down. |
-| I Married a Murderer | Raw, first person | Memoir voice. Stacked lines and hard truths. |
+| I Married a Murderer | Raw, first person | Memoir voice. Stacked lines, dark dry humor, evidence graded honestly. |
+| Power Over Porn | Blunt, contrarian | "Not X. It's Y." Sex-positive, shame-free, clinically sharp. The benchmark voice. |
+| Therapy Thingz | Playful, warm | Wordplay, "real humans," first person. |
+| Powers of Mind Online (drpowerstherapy.com) | Clear, reassuring | One therapist, so "I," not "we." |
+| Powers of Mind: Sport Psych Edition | Coach energy | Punchy, contrast-driven. Team "we" is fine. |
+| Clinical Canna Coaching | Friendly, frank | Name her. Education and harm reduction, no emoji headings. |
 
 ## Clinical guardrails
 
