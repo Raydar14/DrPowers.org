@@ -707,3 +707,4 @@ h1, h2, h3 {
   .post-meta span + span::before { margin-right: .6rem; }
   .post-meta { gap: .3rem .6rem; }
 }
+.blog-empty { color: var(--text-dim); font-size: 1.1rem; margin: 0; }

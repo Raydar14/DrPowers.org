@@ -233,9 +233,8 @@ def index_page(posts):
 
     <section class="blog blog-list">
       <div class="wrap">
-        <div class="gal-filters blog-filters" role="group" aria-label="Filter by topic">{chips}</div>
-        <div class="blog-grid">{cards}
-        </div>
+        {'<div class="gal-filters blog-filters" role="group" aria-label="Filter by topic">' + chips + '</div>' if posts else ''}
+        {'<div class="blog-grid">' + cards + '</div>' if posts else '<p class="blog-empty">New writing is on the way. Check back soon.</p>'}
       </div>
     </section>
   </main>
