@@ -134,3 +134,7 @@ Don't try to do all of this tonight. Pick one thing. Layer slowly.
 The biggest win isn't the perfect routine. It's doing the routine consistently.
 
 Same time. Same rhythm. Sweet dreams.
+
+## Sources
+
+- Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019). Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis. *Sleep Medicine Reviews, 46*, 124–135.
