@@ -31,13 +31,21 @@
 (function () {
   "use strict";
 
+  /* ----- Base path: lets pages in subfolders (blog/, blog/post/) share this script ----- */
+  var BASE = (function () {
+    var el = document.currentScript;
+    var src = el && el.src ? el.src : "";
+    var i = src.lastIndexOf("js/script.js");
+    return i > -1 ? src.slice(0, i) : "";
+  })();
+
   /* ----- Site config (edit these in one place) ----- */
   var NAV = [
     { label: "Home",        href: "index.html#home" },
     { label: "About",       href: "about.html" },
     { label: "Work",        href: "index.html#work" },
     { label: "Gallery",     href: "gallery.html" },
-    { label: "Blog",        href: "index.html#blog" },
+    { label: "Blog",        href: "blog/" },
     { label: "CV",          href: "cv.html" }
   ];
 
@@ -61,18 +69,18 @@
     var host = document.getElementById("site-header");
     if (!host) return;
     var links = NAV.map(function (n) {
-      return '<li><a href="' + n.href + '">' + n.label + "</a></li>";
+      return '<li><a href="' + BASE + n.href + '">' + n.label + "</a></li>";
     }).join("");
 
     host.innerHTML =
       '<nav class="nav wrap" aria-label="Primary navigation">' +
-        '<a class="brand" href="index.html#home"><img class="brand__mark" src="assets/BRAIN_HEART.svg" alt="" width="34" height="34" /><span>Dr.&nbsp;Raychel&nbsp;<b>Powers</b></span></a>' +
+        '<a class="brand" href="' + BASE + 'index.html#home"><img class="brand__mark" src="' + BASE + 'assets/BRAIN_HEART.svg" alt="" width="34" height="34" /><span>Dr.&nbsp;Raychel&nbsp;<b>Powers</b></span></a>' +
         '<button class="nav__toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav-menu">' +
           "<span></span><span></span><span></span>" +
         "</button>" +
         '<ul class="nav__links" id="nav-menu">' +
           links +
-          '<li><a class="btn btn--gold" href="index.html#connect">Get in touch</a></li>' +
+          '<li><a class="btn btn--gold" href="' + BASE + 'index.html#connect">Get in touch</a></li>' +
         "</ul>" +
       "</nav>";
 
@@ -110,7 +118,7 @@
         "</div>" +
         '<div class="foot__bottom">' +
           "<span>&copy; " + new Date().getFullYear() + " Dr. Raychel Powers, all rights reserved. Don&rsquo;t hate me cus u ain&rsquo;t me.</span>" +
-          '<span><a href="index.html#connect">Get in touch</a></span>' +
+          '<span><a href="' + BASE + 'index.html#connect">Get in touch</a></span>' +
         "</div>" +
       "</div>";
   }
@@ -166,7 +174,7 @@
         if (r.ok) { form.reset(); status.textContent = "You\u2019re on the list. Talk soon."; }
         else { throw new Error(); }
       }).catch(function () {
-        status.textContent = "Something went wrong \u2014 email " + FALLBACK_EMAIL + " instead.";
+        status.textContent = "Something went wrong. Email " + FALLBACK_EMAIL + " instead.";
         status.classList.add("error");
       });
     });

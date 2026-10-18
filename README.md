@@ -30,6 +30,19 @@ page. To add a page (e.g. `about.html`), copy the `<header id="site-header">` an
 from `index.html`, and it inherits the same nav and footer automatically. Edit the
 `NAV` and `SOCIAL` arrays at the top of `script.js` to change links in one place.
 
+## Blog
+
+Posts are written in Markdown in `_content/blog/` and turned into pages by a
+small script, so the live site stays plain HTML.
+
+1. Add or edit a file in `_content/blog/` (copy an existing post for the header format).
+2. Set `status: published` when it is ready.
+3. Run `pip install markdown` once, then `python3 tools/build_blog.py`.
+4. Commit everything, including the regenerated `blog/`, `feed.xml`, and `sitemap.xml`.
+
+`feed.xml` is an RSS feed of every published post. Social schedulers (Metricool,
+Publer, Buffer) can watch it and draft a social post whenever a new article goes live.
+
 ## Deploy on GitHub Pages
 
 1. Create a repo (e.g. `drpowers`) and push these files to the `main` branch.
