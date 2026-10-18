@@ -9,21 +9,19 @@ order: 21
 
 Some days you can't say what's wrong. You just know it's loud.
 
-That's where this starts. Not with a diagnosis. With three questions: What hurts? What holds you? What are you reaching for?
+That's where this starts. Not with a diagnosis. With three questions:
 
-The 7S Framework gives you a structured way to assess your current state of distress, identify reliable resources, and guide your behaviors toward alignment with your core values.
+- **7 Sufferings:** Where is your suffering today?
+- **7 Supports:** Who and what supports you?
+- **7 Seekings:** What do you seek out when you're suffering?
 
-| Category | Focus | Core Question |
-|---|---|---|
-| **7 Sufferings** | Internal Distress | Where is your suffering right now? |
-| **7 Supports** | External Resources | Who and what can hold you? |
-| **7 Seekings** | Behavioral Choices | What do you reach for, and how can you align it with your values? |
+## Learn it in three steps
 
-## How to use it
+1. Notice which suffering is loud.
+2. Choose a support on purpose.
+3. Notice what you're seeking, and bring it back under your values.
 
-Grab a pen or open your notes app. It takes about five minutes.
-
-Rate. Choose. Notice. Then make one small plan. You aren't grading yourself. You're getting a clear read on today, so you can respond to what's actually happening instead of what you're afraid is happening.
+Grab a pen or open your notes app. It takes about five minutes. You aren't grading yourself. You're getting a clear read on today.
 
 Do it again tomorrow. The scores will change. That's the point.
 
@@ -31,102 +29,126 @@ Do it again tomorrow. The scores will change. That's the point.
 
 *Where is your suffering right now?*
 
-These are seven big categories of distress. Rate each symptom based on its intensity today using the scale:
+These are seven big "buckets" of distress. Each lives on a scale:
 
-- **0** = Not here today
-- **1** = Present, but I can still function
-- **2** = Really interfering with my day
-- **3** = Taking over / I can't function
+- **0** = not here today
+- **1** = present, but I can still function
+- **2** = really interfering with my day
+- **3** = taking over / I can't function
 
-| # | Symptom Category | Description and Scope | Today (0–3) |
-|---|---|---|---|
-| 1 | **Anxiety/Obsessive/Fearful** | Racing thoughts, "what ifs," muscle tension, restlessness, dread, **sticky thoughts/images (obsessions)**, and specific fears that drive avoidance. | |
-| 2 | **Outbursts/Anger** | **Includes Irritability:** Sudden, powerful urges or actions of anger, rage, **irritability, or hostility** that are difficult to control and often lead to relational or personal damage. | |
-| 3 | **Physical pain/dis-ease/unwellness** | Physical pain, chronic discomfort, acute illness, or somatic distress. | |
-| 4 | **Trauma Reactions** | Flashbacks, nightmares, startle, emotional numbing, shutdown, hypervigilance (feeling on guard). The past crashes into the present. | |
-| 5 | **Inattention/Executive Function** | Difficulty starting tasks, staying focused, organizing, remembering, or following through. | |
-| 6 | **Depression/Low Mood** | Low mood, emptiness, loss of interest, fatigue, guilt, hopelessness, or "what's the point." | |
-| 7 | **Loneliness/Isolation** | A painful feeling of being disconnected or misunderstood, even when around others. **Includes the active desire to be alone or to isolate** as a way of coping or avoidance. | |
-| FLAG | **SI–HI (Suicidal or Homicidal Thoughts)** | Thoughts about wanting to die, hurting yourself, or hurting someone else. **At ANY level, this automatically flags "urgent supports" and professional help.** | |
+### The 7 Sufferings
 
-### About the flag
+1. **Anxious / Obsessive / Fearful / Worried.** Racing thoughts, "what ifs," muscle tension, restlessness, dread.
+   - *Obsessions:* sticky thoughts, images, or urges that won't let go, even when you know they don't make full sense. Can include mental checking, repeating, or "I must solve this" loops.
+   - *Fears:* specific fears (social, health, failure, abandonment, and so on) that shape choices. "I can't go." "I can't try." "I'll look stupid." "Something bad will happen."
+2. **Anger.**
+3. **Physical pain / dis-ease / unwellness.**
+4. **Trauma reactions.** Flashbacks, nightmares, startle, emotional numbing, shutdown, or feeling on guard all the time. The past crashes into the present.
+5. **Inattention.** Trouble starting tasks, staying focused, organizing, remembering, or following through. Feels like: "I want to, but my brain slips away."
+6. **Depression.** Low mood, emptiness, loss of interest, fatigue, guilt, hopelessness, or "what's the point." Sometimes heavy and obvious, sometimes numb and quiet.
+7. **SI–HI (suicidal or homicidal thoughts).** Thoughts about wanting to die, not wanting to exist, hurting yourself, or hurting someone else. Can be passive ("I wish I wouldn't wake up") or active (plans or intent).
 
-This one is never "just another symptom." It always routes to maximum safety and connection.
+### About number 7
+
+SI–HI at ANY level automatically flags urgent supports and professional help. It is never "just another symptom." It always routes to maximum safety and connection.
 
 If you're having thoughts of suicide or of hurting someone, call or text **988** in the U.S. (the 988 Suicide & Crisis Lifeline). If someone is in immediate danger, call **911**. Then tell your therapist.
 
 ## Part 2: 7 Supports
 
-*Who and what can hold you?*
+*Who and what supports you?*
 
-Supports are the **external, relational, and systemic resources** you can lean on when symptoms spike. The big idea: you don't wait for crisis. You build these on purpose.
+Supports are people, relationships, and systems you can lean on when symptoms spike. The big idea: you don't wait for crisis. You build these on purpose.
 
-| # | Support Category | Description and Scope |
-|---|---|---|
-| 1 | **Family** | Biological or chosen family. People who know your story and care about your survival and growth. |
-| 2 | **Friends** | Peers you can laugh with, vent to, text late, or sit in silence with. |
-| 3 | **Romance** | Partners, situationships, long-term relationships (assessing if this connection actually supports or drains safety/energy). |
-| 4 | **Safety** | Everything that protects your body, health, and life (e.g., crisis plans, safe transportation, locked doors, legal protections). |
-| 5 | **Space** | The **physical environment** that supports you. A safe haven, a clean room, a quiet spot, or access to nature. **It provides the external environment for psychological distance.** |
-| 6 | **Seek Help** | Explicit ways you reach out for professional, medical, or community support and repair. Examples: going to therapy, calling a hotline, sending a repair message after conflict. |
-| 7 | **Spiritual/Purpose** | Connection to meaning, core values, a sense of contribution, or something larger than yourself (e.g., faith, creative practice, volunteering). |
+1. **Family.** Biological or chosen family. People who know your story and care about your survival and growth. Examples: one sibling, a cousin, a grandparent, or a "bonus parent" who has your back.
+2. **Friends.** Peers you can laugh with, vent to, text late, or sit in silence with. Key message: even one real friend counts.
+3. **Romance.** Partners, situationships, long-term relationships. This one is about emotional closeness, longing, and attachment needs. The question to ask: "Is this romantic connection actually supporting me, or draining my safety and energy?"
+4. **Self-Love.** Compassion, forgiveness, and acceptance as daily practice, not slogans.
+5. **Safety.** Everything that protects your body, health, and life. Examples: STI testing, watching your surroundings, background checks, safe transportation, locked doors, crisis plans, trusted locations, legal protections, safety planning.
+6. **Boundaries.** Your limits on time, energy, access, and behavior. Examples: saying "no," leaving when things feel off, not answering late-night texts, ending a situation that feels unsafe or dehumanizing.
+7. **Bridges.** Ways you reach out and repair: communication, therapy, group support, mentors, spiritual communities. Examples: texting a friend "I'm not okay," going to therapy, sending a repair message after conflict, going to a support group, calling a hotline when SI shows up.
 
-**How to use Supports in practice:**
+### How to use Supports
 
-- After rating symptoms, ask: "Which 1–2 Supports do you want to lean on today?"
-- Make it concrete: "For **Space**, what's one action?" (e.g., Clean the bedroom, go outside for 5 minutes).
+**Step 1.** After rating your sufferings, ask: "Which 1–2 Supports do I want to lean on today?"
+
+**Step 2.** Make it concrete.
+- "For Safety, what's one action?" (Schedule testing. Share your location with a friend.)
+- "For Bridges, who will I reach out to, and how?"
 
 ## Part 3: 7 Seekings
 
-*What do you reach for, and how can you align it with your values?*
+*What do you reach for?*
 
-Seekings are the specific **behaviors and actions** you reach for. The problem is **not the seeking**, but the **mindless seeking and consumption without cognitive, planned, or desired choice** (ego-dystonic behavior).
+Seekings are what you reach for when you're distressed, bored, or numb. None of these are "bad." The question is:
 
-**The Intervention:** Use the **desire to seek** as a **cue** for positive action and self-compassion.
+Am I using this to move toward my values?
 
-| Seeking Category | Trap Use | Values-Guided |
-|---|---|---|
-| **Screens** | Mindless scrolling to avoid feelings. | Intentional use for learning or genuine connection. |
-| **Substances** | Using only to escape, numb, or cope with pain. | Medical/therapeutic use, or mindful recreational use with informed consent. |
-| **Self-Talk** | Chronic self-criticism, conditional self-love ("I'll be kind when I succeed"). | Speaking to yourself like someone you are responsible for (compassion, forgiveness, and honesty). |
-| **Sustenance** | Skipping meals, bingeing, or relying on stimulants to escape fatigue. | Viewing food as fuel, comfort, and mindful nourishment. |
-| **Schedules** | Chaotic sleep, or rigid perfectionistic schedules that collapse quickly. | Establishing basic anchors (waking, eating) and tiny, realistic routines. |
-| **Sex** | Using sex/intimacy only to numb or validate worth. | Consensual, safe, and values-aligned connection where you feel respected. |
-| **Somatic** | Numbing out body sensations, excessive tension. | Conscious use of the body for stabilization (deep breathing, rocking, using comfy clothes/covers, grounding). |
+Or am I using it to hide, escape, or make things worse long term?
 
-**How to use Seekings in practice:**
+### The 7 Seekings (all S words)
 
-1. Ask: "When these symptoms show up, what do you usually reach for first?"
-2. Map each seeking on a line: "Values-guided" on one end, "Avoidance/escape" on the other.
-3. Choose one seeking to shift by 5–10% this week (tiny changes, not overhauls).
+**1. Screens.** Phones, social media, gaming, TV, porn, scrolling.
+- *Values-guided:* intentional time limits. Using screens to learn, connect, create, or genuinely relax.
+- *Trap:* endless scrolling to avoid feelings. Doom-scrolling, online stalking, cyber-obsessing. Losing sleep, work, or relationships to screen time.
 
-## Part 4: How the 7S Framework flows in real life
+**2. Substances.** Alcohol, cannabis, nicotine, pills, psychedelics, energy drinks, and so on.
+- *Values-guided:* medical or therapeutic use, or mindful recreational use with informed consent and safety.
+- *Trap:* using substances only to escape, numb, or cope with SI–HI, trauma, or loneliness. Hiding frequency and dose from others.
 
-The framework creates a loop of self-awareness, support activation, and gentle behavioral shift.
+**3. Self-Love / Self-Talk / Self-Parent.** What you say to yourself about you, others, and the world. The long-term project of how you treat yourself.
+- *Values-guided:* honest and kind at the same time. "Hard doesn't mean I'm failing." "I made a mistake and I can repair." Speaking to yourself like someone you are responsible for. Using mantras as a language of how you talk to yourself under stress.
+- *Trap:* "I'm trash." "I always ruin everything." "I deserved that harm." Conditional self-love ("I'll be kind when I lose weight, get promoted, find a partner"). Mistaking self-love for constant comfort: never challenging yourself, never setting limits.
+- *Key idea:* positive and negative self-talk should point toward the same goals: safety, growth, and truth. Not fantasy. Not self-abandonment.
+
+**4. Sustenance.** Food, drink, sugar, caffeine, what you feed your body.
+- *Values-guided:* "Food is fuel and comfort, not punishment or control." Mindful sugar, caffeine, and timing.
+- *Trap:* skipping meals, bingeing, only eating ultra-processed sugar when stressed, using food to attack or control yourself.
+
+**5. Schedules.** Habits, routines, and rituals that make or break you.
+- *Values-guided:* basic anchors (waking, sleeping, eating, moving, working, resting). Tiny, realistic routines: morning breath, midday outside, night wind-down.
+- *Trap:* no structure, chaotic sleep, or rigid perfectionistic schedules that collapse at the first slip.
+
+**6. Self-Care.** Doing what you need, not just what you feel like in the moment.
+- *Values-guided:* rest when you need it, movement when your body is stuck, learning when your mind is dull, fun when life feels all grind. Keeping appointments, taking meds as prescribed, hygiene, cleaning your space enough that it supports you.
+- *Trap:* confusing coping with care, so "self-care" only means scrolling, buying, or checking out. Or the opposite: never resting because "I don't deserve it."
+
+**7. Sex and Intimacy.** Physical touch, sexual connection, pleasure, and closeness. Sex is a human need, not a shame topic.
+- *Healthy support looks like:* consensual. Safe (testing, condoms, honest conversations). Values-aligned (you feel respected before, during, and after).
+
+### How to use Seekings
+
+1. Ask: "When these sufferings show up, what do I usually reach for first?"
+2. Map each seeking on a line: "values-guided" on one end, "avoidance/escape" on the other.
+3. Choose one seeking to shift by 5–10% this week. Tiny changes, not overhauls.
+
+## Part 4: How it flows in real life
 
 **1. What hurts? (7 Sufferings)**
 
-"Today, which symptoms are loudest? Let's rate each from 0–3."
+"Today, which sufferings are loudest? Rate each from 0–3."
 
 **2. What holds you? (7 Supports)**
 
-"Given those scores, which external support would help the most right now: Family, Space, Seek Help, etc.?"
+"Given those scores, which support would help the most right now: family, friends, romance, self-love, safety, boundaries, or bridges?"
 
 **3. What are you reaching for? (7 Seekings)**
 
-"When you feel this way, what is the first thing you usually reach for (Screens, Sustenance, Somatic, etc.)? Is that choice moving you toward your values or just away from pain?"
+"When I feel this way, what do I usually reach for: screens, substances, self-talk, sustenance, schedules, self-care, or sex?"
 
-### The Micro-Plan
+"Is that choice moving me toward my values, or just away from pain?"
 
-1. **One symptom** to watch (from 7 Sufferings)
-2. **One support** to lean on (from 7 Supports)
-3. **One seeking** to gently tweak toward your values (from 7 Seekings)
+### The micro-plan
 
-## The 7S Framework is simple
+1. **One suffering** to watch
+2. **One support** to lean on
+3. **One seeking** to tweak toward your values
 
-- **7 Sufferings:** Name your suffering.
-- **7 Supports:** Remember who and what can hold you.
-- **7 Seekings:** Notice what you reach for and gently turn it back toward your values using conscious choice.
+## Now the 7S Framework is simple
+
+- **7 Sufferings:** name your suffering.
+- **7 Supports:** remember who and what can hold you.
+- **7 Seekings:** notice what you reach for and gently turn it back toward your values.
 
 ## Try this today
 
